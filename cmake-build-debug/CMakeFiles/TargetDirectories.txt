@@ -1,0 +1,3 @@
+C:/Users/thiago/CLionProjects/fila-estruturado/cmake-build-debug/CMakeFiles/fila_estruturado.dir
+C:/Users/thiago/CLionProjects/fila-estruturado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiago/CLionProjects/fila-estruturado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

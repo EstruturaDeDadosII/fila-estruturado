@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/thiago/CLionProjects/fila-estruturado/fila.cpp
+fila.h
+C:/Users/thiago/CLionProjects/fila-estruturado/fila.h
+
+C:/Users/thiago/CLionProjects/fila-estruturado/fila.h
+iostream
+-
+deque
+-
+
+C:/Users/thiago/CLionProjects/fila-estruturado/main.cpp
+iostream
+-
+deque
+-
+fila.h
+C:/Users/thiago/CLionProjects/fila-estruturado/fila.h
+
